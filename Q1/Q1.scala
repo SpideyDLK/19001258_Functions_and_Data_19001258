@@ -1,6 +1,6 @@
 object negRat extends App{
   val n = new Rational(3,4)
-  println(n.neg())
+  println(n.neg)
 }
 
 class Rational (n:Int,d:Int){
